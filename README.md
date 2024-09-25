@@ -11,9 +11,9 @@ This project involves exploratory data analysis on the Stack Overflow Developer 
 
 ## Installation
 ### Prerequisites
-R (version 4.x or higher)
-RStudio (optional)
-Required R packages:
+- R (version 4.x or higher)
+- RStudio (optional)
+- Required R packages:
 ```r
 - tidyverse
 - dplyr

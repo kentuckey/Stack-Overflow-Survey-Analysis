@@ -6,7 +6,7 @@ This project involves exploratory data analysis on the Stack Overflow Developer 
 ## Table Of Content
 - [Installation](#installation)
 - [Dataset](#dataset)
-- [Analysis Questions](#analysis_questions)
+- [Analysis Questions](#analysis-questions)
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
